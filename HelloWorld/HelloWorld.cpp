@@ -6,7 +6,7 @@
 
 int main()
 {
-	std::cout << "Prerit" << std::endl;
+	std::cout << "Prerit Thakkar" << std::endl;
     std::cout << "Hello World!\n"; 
 }
 
